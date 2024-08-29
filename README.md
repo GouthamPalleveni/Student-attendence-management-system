@@ -101,9 +101,6 @@ Distributed under the MIT License.
 
 ## Contact
 
-Kunal Kawate - kunalkawate424@gmail.com
-
-Project Link: [https://github.com/Kunal-kawate/Project-Based-Learning-Student-Attendance-Management-System-Project-In-Python-Source-Code-](https://github.com/Kunal-kawate/Project-Based-Learning-Student-Attendance-Management-System-Project-In-Python-Source-Code-)
-
+GOUTHAM -pallevenigoutham@gmail.com
 Feel free to contact me if you have any questions or suggestions!
 

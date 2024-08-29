@@ -16,14 +16,14 @@ video_capture = cv2.VideoCapture(0)
 
 
 # ----------------------------Data of students-------------------------------------------------
-no_list={"Kunal kawate":"91_8788654516","Kunal Paithane":"91_8788654516","shreyas":"91_8788654516","Ritesh":"91_8788654516"}
+no_list={"goutham":"91_8788654516","sunny":"91_8788654516","shreyas":"91_8788654516","Ritesh":"91_8788654516"}
 # ----------------------------End----------------------------------------------------------------
 
 
-jobs_image = face_recognition.load_image_file("photos/kunya.jpg")
+jobs_image = face_recognition.load_image_file("photos/goutham.jpg")
 jobs_encoding = face_recognition.face_encodings(jobs_image)[0]
  
-ratan_tata_image = face_recognition.load_image_file("photos/kunalp.jpg")
+ratan_tata_image = face_recognition.load_image_file("photos/sunny.jpg")
 ratan_tata_encoding = face_recognition.face_encodings(ratan_tata_image)[0]
  
 sadmona_image = face_recognition.load_image_file("photos/rcbsamrthak.jpg")
@@ -40,8 +40,8 @@ s_encoding
 ]
  
 known_faces_names = [
-"Kunal kawate",
-"Kunal Paithane",
+"goutham",
+"sunny",
 "Ritesh",
 "shreyas"
 ]
